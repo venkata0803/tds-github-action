@@ -1,9 +1,7 @@
-name: TDS Action Test
+name: IITM Action Test
 
 on:
   push:
-    branches:
-      - main
 
 jobs:
   test:
