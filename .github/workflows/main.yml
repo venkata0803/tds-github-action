@@ -8,4 +8,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 23f1000054@ds.study.iitm.ac.in
-        run: echo "Hello IITM"
+        run: echo "IITM Action"
